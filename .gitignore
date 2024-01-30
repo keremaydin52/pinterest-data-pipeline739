@@ -1,0 +1,6 @@
+#user credentials
+*.pem
+
+#log files
+error.txt
+results.txt
